@@ -1,0 +1,921 @@
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{1.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:1}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{2.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:2}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{3.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:3}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{4.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:4}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{5.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:5}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{6.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:6}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{7.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:7}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{8.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:8}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{9.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:9}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{10.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:10}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{11.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:11}
+\end{figure}
+\vspace{-10pt}
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{12.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:12}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{13.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:13}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{14.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:14}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{15.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:15}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{16.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:16}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{17.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:17}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{18.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:18}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{19.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:19}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{20.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:20}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{21.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:21}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{22.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:22}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{23.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:23}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{24.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:24}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{25.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:25}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{26.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:26}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{27.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:27}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{28.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:28}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{29.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:29}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{30.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:30}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{31.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:31}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{32.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:32}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{33.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:33}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{34.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:34}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{35.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:35}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{36.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:36}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{37.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:37}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{38.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:38}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{39.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:39}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{40.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:40}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{41.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:41}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{42.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:42}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{43.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:43}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{44.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:44}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{45.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:45}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{46.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:46}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{47.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:47}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{48.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:48}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{49.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:49}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{50.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:50}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{51.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:51}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{52.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:52}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{53.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:53}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{54.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:54}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{55.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:55}
+\end{figure}
+\vspace{-10pt}
+
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{56.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:56}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{57.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:57}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{58.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:58}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{59.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:59}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{60.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:60}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{61.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:61}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{62.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:62}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{63.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:63}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{64.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:64}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{65.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:65}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{66.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:66}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{67.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:67}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{68.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:68}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{69.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:69}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{70.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:70}
+\end{figure}
+\vspace{-10pt}
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{71.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:71}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{72.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:72}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{73.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:73}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{74.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:74}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{75.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:75}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{76.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:76}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{77.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:77}
+\end{figure}
+\vspace{-10pt}
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{78.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:78}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{79.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:79}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{80.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:80}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{81.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:81}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{82.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:82}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{83.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:83}
+\end{figure}
+\vspace{-10pt}
+
+\begin{figure}[H]
+    \setlength{\abovecaptionskip}{20pt}
+    \setlength{\belowcaptionskip}{0pt}
+    \centering
+    \includegraphics[width=0.5\textwidth]{84.png}
+    \captionsetup{justification=centering}
+    \caption{\textit{Sample Text}}
+    \label{fig:84}
+\end{figure}
+\vspace{-10pt}
